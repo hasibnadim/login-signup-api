@@ -1,0 +1,22 @@
+{
+  "prettier.arrowParens": "avoid",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": null,
+  "[javascript,jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "smooth",
+  "workbench.colorCustomizations": {
+    "editor.background": "#010116"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
